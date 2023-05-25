@@ -1,0 +1,108 @@
+
+@import url("http://fonts.googleapis.com/css?family=Oswald:400,300,700");
+body {
+  font-family: 'Oswald', sans-serif !important;
+}
+html{
+  scroll-behavior: smooth;
+}
+.btn {
+    padding: .45rem 1.5rem .35rem;
+  }
+  
+  .gradient-custom {
+    background: linear-gradient(to right, rgb(131, 192, 212), rgb(226, 176, 231))
+  }
+  /*main section*/
+  .main{
+    background: url(image/background.jpg) no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+  }
+  .main h1{
+    font-size: 4.4rem;
+    font-weight: 700;
+    
+  }
+ 
+  .main .bt1{
+    height: 55px;
+    width: 138px;
+    background-color: rgb(241, 107, 212);
+    color:black;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+  }
+  .main .bt2{
+    height: 55px;
+    width: 138px;
+    background-color: rgb(75, 174, 212);
+    color:black;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+  }
+  /*about us*/
+
+
+section{
+     min-height: 100vh;
+    
+    }
+
+/*actiivities*/
+    .activities{
+      width: 80%;
+      height: 90vh;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+
+
+  td{
+      color:black;
+      text-align: center;
+      width: 5vw;
+      border: 1px solid rgb(238, 222, 222);
+      font-weight: 700;
+      size: 12px;
+  
+  }
+  .none{
+      border: none;
+  }
+  .color1{
+      background-color: #319eff;
+  }
+  .color2{
+      background-color: #ff78ae;
+  }
+  .color3{
+      background-color:#aa4cff;
+  }
+  .color4{
+      background-color:#33d3ff;
+  }
+  .color5{
+      background-color:#c2ff00;
+  }
+  .color6{
+      background-color:#ff0201;
+  }
+  .color7{
+      background-color:#00ff71;
+  }
+  .color8{
+      background-color:#ff5924;
+  }
+  .color9{
+      background-color:#ffcc00;
+  }
+  .color10{
+      background-color:#319eff;
+  }
+  
+
