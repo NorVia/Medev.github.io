@@ -1,0 +1,23 @@
+
+@import url("http://fonts.googleapis.com/css?family=Oswald:400,300,700");
+body {
+  font-family: 'Oswald', sans-serif !important;
+
+
+
+}
+section{
+     min-height: 40vh;
+    padding-top: 50px;
+    }
+    .carousel-indicators button {
+        height: 10px !important;
+        width: 10px !important;
+    border-radius: 50%; }
+    .carousel-item {
+       height: 4rem !important;
+
+    }
+    .main{
+      padding: 100vh;
+    }
