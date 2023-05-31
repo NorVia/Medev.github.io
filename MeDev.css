@@ -1,0 +1,119 @@
+@import url("http://fonts.googleapis.com/css?family=Oswald:400,300,700");
+body {
+  font-family: 'Oswald', sans-serif !important;
+}
+/*navbar*/
+  
+.gradient-custom {
+  background: linear-gradient(to right, #d6b8f4, rgba(214,184,244,255))
+}
+
+
+.container{
+
+height: 700px;
+padding-top: 5vh;
+  background: url(image/new.jpg);
+  background-size: cover;
+position: relative;
+  
+   
+
+}
+
+
+.main{
+    background: url(image/new.jpg) no-repeat;
+    background-size: cover;
+    padding:30px;
+    width: 100%;
+    height: 100vh;
+}
+
+.main .bt1 {
+    height: 50px;
+    width: 100px;
+    background-color:#9a73ba;
+    color:black;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    border-radius: 4px;
+}
+.main .bt2 {
+    height: 50px;
+    width: 100px;
+    background-color:#9a73ba;
+    color:black;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.main .bt3 {
+    height: 50px;
+    width:100px;
+    background-color:#9a73ba;
+    color:black;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+/*aboutus*/
+
+.card-img-top{
+  padding: 5vh;
+  
+}
+.card{
+  height: 80vh;
+  width: 300px;
+} 
+.card-body{
+  font-size: 13;
+  padding:30px;
+}
+
+  
+
+/*gallery*/
+.carousel-indicator{
+  padding: 30px;
+}
+.carousel-indicators button {
+  height: 10px !important;
+  width: 10px !important;
+border-radius: 50%; }
+.carousel-img{
+  height:500px;
+  
+}
+
+/*contact us*/
+
+
+.modal-body{
+  height: 700px;
+}
+#title {
+  text-align:center;
+  margin-bottom:0;
+}
+#description {
+  margin-top:0;
+  text-align:center;
+  color:rgba(54, 12, 52, 0.6);
+}
+
+#survey-form {
+ 
+  width:100%;
+  height:640px;
+  margin:20px auto;
+  padding:30px;
+background-color: blueviolet;
+  border-radius: 6px;
+}
+
+
